@@ -1,2 +1,3 @@
 # Rothko-painting
-Goals was to rebuild a Rothko paining using CSS
+Goal was to rebuild a Rothko paining using CSS
+Take a llok: https://daniellefiene.github.io/Rothko-painting/
